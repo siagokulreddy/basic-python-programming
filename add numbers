@@ -3,3 +3,4 @@ b=20
 sum=a+b
 print(sum)
 # this is my first program
+#i am removing sum since it is not nedded
